@@ -1,0 +1,54 @@
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        //declaracion de una constate
+        //const string name = "  Miguel ";
+
+        //=============String===================
+
+        //string name = "  Miguel ";
+        //var apellido = " Teheran ";
+        //apellido = "  Teheran      Garrido";
+
+        //3) No modifiques de tipo, por que tendaras errores, debes convertir las variables
+        //apellido = 5;
+        //name = 4;
+        //Console.WriteLine("Helllo Wordl" + name + " " + apellido);
+
+        //4) aprendiendo Format de string.Format
+        // Console.WriteLine(string.Format("Mi nombre tiene{0} letras", name.Length));
+        // Console.WriteLine(string.Format("Mi apellido tiene{0} letras", apellido.Length));
+
+        //5) aprendiendo string interpolation
+        //Console.WriteLine($"Mi apellido  tiene letras {apellido.Length} ");
+
+        //6) eliminar espacions con Trim()
+        // Console.WriteLine($"Mi nombre tienen {name.Trim().Length} letras ");
+        // Console.WriteLine($"Mi apellido tienen {apellido.Trim().Length} letras ");
+
+        //7) replazar un caracter con Replace(antes, remplazo)
+        // name = "Ana".Trim().Replace(" ", "");
+        // apellido = apellido.Trim().Replace(" ", "");
+        // Console.WriteLine($"Mi apellido tiene {apellido.Length} {apellido} letras");
+        // Console.WriteLine($"Mi nombre tiene {name.Length} {name} letras");
+
+
+        //8) tipos numericos
+        short edad = 30;
+        //Int16 statura = 157;
+        float estatura = 1.57F; //para numero medianos
+        //convertirlo a float 
+        float estatura2 = 1.78F;
+
+        Console.WriteLine($"Mi edad es {edad}");
+        //Console.WriteLine($"mi estatura es {statura}cms");
+        Console.WriteLine($"mi estatura es {estatura}cms");
+        Console.WriteLine($"mi estatura es {estatura2}cms");
+
+    }
+
+
+}

@@ -1,0 +1,13 @@
+/home/ambarjs/Documentos/Aprender/NETCORE/bin/Debug/netcoreapp3.1/NETCORE
+/home/ambarjs/Documentos/Aprender/NETCORE/bin/Debug/netcoreapp3.1/NETCORE.deps.json
+/home/ambarjs/Documentos/Aprender/NETCORE/bin/Debug/netcoreapp3.1/NETCORE.runtimeconfig.json
+/home/ambarjs/Documentos/Aprender/NETCORE/bin/Debug/netcoreapp3.1/NETCORE.runtimeconfig.dev.json
+/home/ambarjs/Documentos/Aprender/NETCORE/bin/Debug/netcoreapp3.1/NETCORE.dll
+/home/ambarjs/Documentos/Aprender/NETCORE/bin/Debug/netcoreapp3.1/NETCORE.pdb
+/home/ambarjs/Documentos/Aprender/NETCORE/obj/Debug/netcoreapp3.1/NETCORE.csprojAssemblyReference.cache
+/home/ambarjs/Documentos/Aprender/NETCORE/obj/Debug/netcoreapp3.1/NETCORE.AssemblyInfoInputs.cache
+/home/ambarjs/Documentos/Aprender/NETCORE/obj/Debug/netcoreapp3.1/NETCORE.AssemblyInfo.cs
+/home/ambarjs/Documentos/Aprender/NETCORE/obj/Debug/netcoreapp3.1/NETCORE.csproj.CoreCompileInputs.cache
+/home/ambarjs/Documentos/Aprender/NETCORE/obj/Debug/netcoreapp3.1/NETCORE.dll
+/home/ambarjs/Documentos/Aprender/NETCORE/obj/Debug/netcoreapp3.1/NETCORE.pdb
+/home/ambarjs/Documentos/Aprender/NETCORE/obj/Debug/netcoreapp3.1/NETCORE.genruntimeconfig.cache
